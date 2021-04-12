@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="1049" measuredWidth="1497" measuredHeight="1049" background="#eee" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#f00" alpha="211" foreground="#f00" border="none"/>
+  <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#900" alpha="128" foreground="#c00" border="none"/>
+  <widgets xsi:type="model:Label" id="5" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="6" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="7" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="8" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="9" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="10" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="11" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="15" x="168" y="360" width="1313" height="680" text="Name,Last\nName,=. Age v,(w:30). Kids,Likes,(align:center). Actions&#xA;Peter,Severin,44,[x],{computer},[Edit] [View]&#xA;Henri,Severin,(bg:lightGreen).14,[],{train},[Edit] [View]&#xA;Olga,Severin,69,[x],{note},[Edit] [View]&#xA;[-] You can even&#xA;  [+] Make a&#xA;  [+] Tree table" measuredWidth="1313" measuredHeight="680" alternative="#eee">
+    <font/>
+    <items x="1160" y="39" width="20" height="15" text="Edit"/>
+    <items x="1183" y="39" width="25" height="15" text="View"/>
+    <items x="1160" y="61" width="20" height="15" text="Edit"/>
+    <items x="1183" y="61" width="25" height="15" text="View"/>
+    <items x="1160" y="83" width="20" height="15" text="Edit"/>
+    <items x="1183" y="83" width="25" height="15" text="View"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
