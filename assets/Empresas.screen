@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="1241" measuredWidth="1497" measuredHeight="1241" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Label" id="5" x="985" y="260" text="Alumnos" measuredWidth="83" measuredHeight="36">
+    <font size="20px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="6" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="7" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="8" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="9" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="10" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="11" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="12" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="13" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Table" id="15" x="162" y="352" width="1313" height="840" text="Empresa, Tutor Empresa,Alumnos&#xA;                  ,                                              ,   &#xA;                                    ,                                              ,    &#xA;   Telefónica   ,   Juan Inocencio Delgado   ,    Carlota Moreno García&#xA;                       ,                                              ,    Mamen Moreno García&#xA;                       ,                                              ,    María Moreno García&#xA;                       ,                                              ,    Sara Moreno García&#xA;                       ,                                              ,    Marivi Moreno García&#xA;                       ,                                              ,    Ana Moreno García&#xA;                       ,                                              ,    Juan Moreno García&#xA;                                       ,                                              ,   &#xA;                                    ,                                              ,    &#xA;   Movistar  ,   Juan Inocencio Delgado   ,    Juan Perez cobalto&#xA;                       ,                                              ,   Jose Moreno García&#xA;                       ,                                              ,    David Moreno García&#xA;                       ,                                              ,    Guillermo Moreno García&#xA;                       ,                                              ,    Mauro Moreno García&#xA;                       ,                                              ,    Ana María Moreno García&#xA;                       ,                                              ,    Julian Moreno García&#xA;                                       ,                                              ,   &#xA;                                    ,                                              ,    &#xA;   Google  ,   Juan Inocencio Delgado   ,    Carlota Moreno García&#xA;                       ,                                              ,    Pedro Moreno García&#xA;                       ,                                              ,    Francisco Moreno García&#xA;                       ,                                              ,    Nacho Moreno García&#xA;                       ,                                              ,    Fernando Moreno García&#xA;                       ,                                              ,    Antonia Moreno García&#xA;                       ,                                              ,    Alberto Moreno García&#xA;                                       ,                                              ,   &#xA;                                    ,                                              ,    &#xA;" measuredWidth="1313" measuredHeight="840" rowHeight="30" alternative="#eee">
+    <font size="18px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="16" x="1559" y="314" height="967" measuredWidth="17" measuredHeight="967"/>
+  <widgets xsi:type="model:SearchField" id="17" x="154" y="256" width="176" text="Search Empresa" measuredWidth="176" measuredHeight="36">
+    <font size="20px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:VSlider" id="18" x="1479" y="446" height="652" measuredWidth="17" measuredHeight="652"/>
+  <widgets xsi:type="model:Button" id="19" x="1392" y="1216" text="Editar tabla" measuredWidth="118" measuredHeight="35">
+    <font size="18px" bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

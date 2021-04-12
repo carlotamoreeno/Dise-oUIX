@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="1273" measuredWidth="1497" measuredHeight="1273" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:VScrollbar" id="5" x="1559" y="314" height="999" measuredWidth="17" measuredHeight="999"/>
+  <widgets xsi:type="model:Image" id="6" x="169" y="432" width="160" height="144" measuredWidth="160" measuredHeight="144"/>
+  <widgets xsi:type="model:Image" id="7" x="171" y="626" width="156" height="152" measuredWidth="156" measuredHeight="152"/>
+  <widgets xsi:type="model:Image" id="8" x="177" y="840" width="154" height="156" measuredWidth="154" measuredHeight="156"/>
+  <widgets xsi:type="model:Image" id="9" x="918" y="436" width="156" height="140" measuredWidth="156" measuredHeight="140"/>
+  <widgets xsi:type="model:Image" id="10" x="918" y="608" width="147" height="141" measuredWidth="147" measuredHeight="141"/>
+  <widgets xsi:type="model:Image" id="11" x="912" y="838" width="160" height="160" measuredWidth="160" measuredHeight="160"/>
+  <widgets xsi:type="model:TextField" id="12" x="384" y="682" text="María del Carmen García Mon " measuredWidth="314" measuredHeight="39">
+    <font size="24px" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="13" x="378" y="898" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
+    <font size="24px" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="14" x="1120" y="480" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
+    <font size="24px" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="15" x="1112" y="659" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
+    <font size="24px" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="16" x="1112" y="898" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
+    <font size="24px" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="1416" y="352" text="Añadir" measuredWidth="94" measuredHeight="36" textAlignment="Center" icon="add (medium)">
+    <font size="20px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="18" x="1392" y="344" width="136" measuredWidth="136" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="19" x="1392" y="386" width="136" measuredWidth="136" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="20" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="24" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="25" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="26" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:TextArea" id="27" x="160" y="251" width="176" height="54" text="DAM - 1ªB" measuredWidth="176" measuredHeight="54" background="#de3831" borderColor="#de3831">
+    <font size="32px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="28" x="335" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="29" x="378" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="30" x="416" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="31" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="32" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="33" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="34" x="362" y="484" width="343" height="44" measuredWidth="343" measuredHeight="44" border="none"/>
+  <widgets xsi:type="model:Label" id="35" x="408" y="486" text="Carlota Moreno García" measuredWidth="251" measuredHeight="39" foreground="#c00">
+    <font size="24px" bold="true" italic="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

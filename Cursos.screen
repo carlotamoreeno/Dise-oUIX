@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Window" id="2" x="96" y="80" width="797" height="587" measuredWidth="797" measuredHeight="587"/>
-  <widgets xsi:type="model:Image" id="1" x="183" y="248" width="624" height="145" measuredWidth="624" measuredHeight="145" src="assets/asir.jpg"/>
+  <widgets xsi:type="model:Window" id="2" x="96" y="80" width="797" height="587" measuredWidth="797" measuredHeight="587" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="1" x="181" y="248" width="624" height="145" measuredWidth="624" measuredHeight="145" src="assets/asir.jpg"/>
   <widgets xsi:type="model:Image" id="5" x="387" y="120" width="216" height="49" measuredWidth="216" measuredHeight="49" src="assets/logoUEM.png"/>
   <widgets xsi:type="model:TextField" id="6" x="183" y="248" width="624" text="TÉCNICO SUPERIOR EN ADMINISTRACIÓN DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="624" measuredHeight="23">
     <font/>
