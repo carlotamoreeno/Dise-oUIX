@@ -61,6 +61,13 @@
   <widgets xsi:type="model:TextField" id="38" x="213" y="737" width="171" text="Tipo formato" measuredWidth="171" measuredHeight="39">
     <font size="24px" bold="true" italic="true"/>
   </widgets>
+  <widgets xsi:type="model:Label" id="39" x="528" y="125" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="40" x="506" y="117" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="41" x="440" y="135" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
+  <widgets xsi:type="model:VLine" id="42" x="416" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="43" x="352" y="135" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
