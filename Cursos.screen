@@ -16,26 +16,26 @@
   <widgets xsi:type="model:Label" id="69" x="702" y="575" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="70" x="1341" y="569" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff">
+  <widgets xsi:type="model:Label" id="70" x="1341" y="569" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="71" x="1477" y="569" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff">
+  <widgets xsi:type="model:Label" id="71" x="1477" y="569" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="72" x="1608" y="569" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff">
+  <widgets xsi:type="model:Label" id="72" x="1608" y="569" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:VScrollbar" id="73" x="1711" y="529" height="1073" measuredWidth="17" measuredHeight="1073"/>
   <widgets xsi:type="model:Panel" id="74" x="344" y="840" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
-  <widgets xsi:type="model:Label" id="78" x="1376" y="710" text="Campus Villaviciosa de Odón" measuredWidth="261" measuredHeight="31" foreground="#fff">
-    <font size="20px"/>
+  <widgets xsi:type="model:Label" id="78" x="1376" y="710" text="Campus Villaviciosa de Odón" measuredWidth="279" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="101" x="798" y="840" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="105" x="1233" y="840" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="109" x="350" y="1238" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="113" x="798" y="1238" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="117" x="1242" y="1238" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
-  <widgets xsi:type="model:Label" id="122" x="1222" y="569" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff">
+  <widgets xsi:type="model:Label" id="122" x="1222" y="569" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="123" x="495" y="575" measuredWidth="6" measuredHeight="23">
@@ -54,7 +54,7 @@
   <widgets xsi:type="model:Arrow" id="128" x="600" y="585" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
   <widgets xsi:type="model:VLine" id="129" x="576" y="569" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:Arrow" id="130" x="512" y="585" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
-  <widgets xsi:type="model:SearchField" id="133" x="626" y="710" width="304" text="busca tu grado" measuredWidth="304" measuredHeight="31">
+  <widgets xsi:type="model:SearchField" id="133" x="626" y="710" width="304" text="busca tu grado" measuredWidth="304" measuredHeight="36">
     <font size="20px" bold="false" italic="true"/>
   </widgets>
   <widgets xsi:type="model:VLine" id="151" x="1440" y="569" height="36" measuredWidth="6" measuredHeight="36"/>
@@ -97,6 +97,8 @@
     <font size="28px" bold="true"/>
   </widgets>
   <hRuler/>
-  <vRuler/>
+  <vRuler>
+    <guides position="948"/>
+  </vRuler>
   <font size="12px"/>
 </model:Screen>
