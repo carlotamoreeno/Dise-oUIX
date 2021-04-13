@@ -65,13 +65,6 @@
   </widgets>
   <widgets xsi:type="model:Panel" id="57" x="1390" y="1090" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="58" x="1394" y="1114" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Callout" id="60" x="152" y="361" width="42" height="42" text="i" measuredWidth="42" measuredHeight="42">
-    <font bold="true"/>
-    <note>De momento solo está habilitado TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA</note>
-  </widgets>
-  <widgets xsi:type="model:Note" id="61" x="-45" y="459" width="239" height="93" text="De momento solo está habilitado TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA" measuredWidth="239" measuredHeight="93">
-    <font/>
-  </widgets>
   <widgets xsi:type="model:Window" id="62" x="90" y="1252" width="1497" height="1101" measuredWidth="1497" measuredHeight="1101" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
   <widgets xsi:type="model:Image" id="63" x="114" y="1288" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="64" x="90" y="1440" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
@@ -104,41 +97,37 @@
   <widgets xsi:type="model:Label" id="78" x="1234" y="1462" text="Campus Villaviciosa de Odón" measuredWidth="261" measuredHeight="31" foreground="#fff">
     <font size="20px"/>
   </widgets>
-  <widgets xsi:type="model:Callout" id="99" x="136" y="1561" width="42" height="42" text="i" measuredWidth="42" measuredHeight="42">
-    <font bold="true"/>
-    <note>De momento solo está habilitado TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA</note>
-  </widgets>
   <widgets xsi:type="model:Text" id="100" x="240" y="1672" width="301" height="151" text="TÉCNICO SUPERIOR &#xA;EN ADMINISTRACIÓN&#xA; DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
     <font size="28px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="101" x="656" y="1592" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="102" x="978" y="1903" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="103" x="982" y="1927" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Text" id="104" x="694" y="1672" width="301" height="151" text="TÉCNICO SUPERIOR &#xA;EN ADMINISTRACIÓN&#xA; DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
+  <widgets xsi:type="model:Text" id="104" x="694" y="1672" width="301" height="151" text="TÉCNICO SUPERIOR EN ANIMACIONES 3D, JUEGOS Y ENTORNOS INTERACTIVOS" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
     <font size="28px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="105" x="1091" y="1592" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="106" x="1413" y="1903" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="107" x="1417" y="1927" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Text" id="108" x="1129" y="1672" width="301" height="151" text="TÉCNICO SUPERIOR &#xA;EN ADMINISTRACIÓN&#xA; DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
+  <widgets xsi:type="model:Text" id="108" x="1129" y="1672" width="301" height="151" text="TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
     <font size="28px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="109" x="208" y="1990" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="110" x="530" y="2301" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="111" x="534" y="2325" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Text" id="112" x="246" y="2070" width="301" height="151" text="TÉCNICO SUPERIOR &#xA;EN ADMINISTRACIÓN&#xA; DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
+  <widgets xsi:type="model:Text" id="112" x="240" y="2101" width="301" height="151" text="TÉCNICO SUPERIOR EN ACONDICIONAMIENTO FÍSICO" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
     <font size="28px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="113" x="662" y="2000" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="114" x="984" y="2311" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="115" x="988" y="2335" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Text" id="116" x="700" y="2080" width="301" height="151" text="TÉCNICO SUPERIOR &#xA;EN ADMINISTRACIÓN&#xA; DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
+  <widgets xsi:type="model:Text" id="116" x="697" y="2101" width="301" height="151" text="TÉCNICO SUPERIOR EN COMERCIO INTERNACIONAL" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
     <font size="28px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="117" x="1100" y="1990" width="365" height="353" measuredWidth="365" measuredHeight="353"/>
   <widgets xsi:type="model:Panel" id="118" x="1422" y="2301" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="119" x="1426" y="2325" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Text" id="120" x="1138" y="2070" width="301" height="151" text="TÉCNICO SUPERIOR &#xA;EN ADMINISTRACIÓN&#xA; DE SISTEMAS INFORMÁTICOS EN RED" measuredWidth="301" measuredHeight="151" lineHeight="1.4">
+  <widgets xsi:type="model:Text" id="120" x="1129" y="2133" width="301" height="88" text="TÉCNICO SUPERIOR EN EDUCACIÓN INFANTIL" measuredWidth="301" measuredHeight="88" lineHeight="1.4">
     <font size="28px"/>
   </widgets>
   <hRuler/>
