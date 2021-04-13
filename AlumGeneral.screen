@@ -113,6 +113,18 @@
   <widgets xsi:type="model:VLine" id="93" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:VLine" id="94" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:HLine" id="95" x="976" y="288" width="97" measuredWidth="97" measuredHeight="6" foreground="#fff"/>
+  <widgets xsi:type="model:Panel" id="96" x="710" y="441" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="97" x="714" y="465" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Panel" id="98" x="710" y="737" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="99" x="720" y="1046" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="100" x="1414" y="440" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="101" x="1414" y="721" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="102" x="1414" y="1025" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="103" x="714" y="760" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="104" x="724" y="1067" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="105" x="1418" y="465" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="106" x="1418" y="746" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="107" x="1418" y="1047" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

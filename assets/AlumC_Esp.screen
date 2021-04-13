@@ -45,8 +45,8 @@
   <widgets xsi:type="model:Label" id="143" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="144" x="368" y="440" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
-  <widgets xsi:type="model:Label" id="145" x="414" y="442" text="Pablo Jimenez Romero" measuredWidth="250" measuredHeight="39" foreground="#c00">
+  <widgets xsi:type="model:Panel" id="144" x="353" y="440" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
+  <widgets xsi:type="model:Label" id="145" x="400" y="442" text="Pablo Jimenez Romero" measuredWidth="250" measuredHeight="39" foreground="#c00">
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:List" id="150" x="440" y="512" width="140" height="86" text="[] completo&#xA;[x] incompleto&#xA;" measuredWidth="140" measuredHeight="86" border="false" alpha="0">
@@ -78,7 +78,7 @@
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="158" x="1072" y="798" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
-  <widgets xsi:type="model:Label" id="159" x="1104" y="800" text="Alejandro Mariam Medina" measuredWidth="289" measuredHeight="39" foreground="#bf9000">
+  <widgets xsi:type="model:Label" id="159" x="1099" y="812" text="Alejandro Mariam Medina" measuredWidth="289" measuredHeight="39" foreground="#bf9000">
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:ColorPicker" id="160" x="638" y="266" width="73" measuredWidth="73" measuredHeight="23" background="#38761d"/>
@@ -88,22 +88,30 @@
   <widgets xsi:type="model:VLine" id="162" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:VLine" id="163" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:HLine" id="164" x="1240" y="295" width="151" measuredWidth="151" measuredHeight="6" foreground="#fff"/>
-  <widgets xsi:type="model:Button" id="165" x="728" y="440" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+  <widgets xsi:type="model:Button" id="165" x="695" y="442" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
     <font size="32px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="166" x="744" y="808" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+  <widgets xsi:type="model:Button" id="166" x="710" y="810" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
     <font size="32px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="167" x="1423" y="440" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+  <widgets xsi:type="model:Button" id="167" x="1414" y="440" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
     <font size="32px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Button" id="168" x="1432" y="798" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+  <widgets xsi:type="model:Button" id="168" x="1414" y="798" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
     <font size="32px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Image" id="169" x="144" y="443" width="197" height="240" measuredWidth="197" measuredHeight="240" border="true" src="cara7.jpg"/>
   <widgets xsi:type="model:Image" id="170" x="146" y="838" width="194" height="241" measuredWidth="194" measuredHeight="241" border="true" src="cara8.jpg"/>
-  <widgets xsi:type="model:Image" id="171" x="844" y="431" width="196" height="252" measuredWidth="196" measuredHeight="252" border="true" src="cara9.jpg"/>
-  <widgets xsi:type="model:Image" id="172" x="864" y="856" width="184" height="249" measuredWidth="184" measuredHeight="249" border="true" src="cara10.jpg"/>
+  <widgets xsi:type="model:Image" id="171" x="842" y="450" width="196" height="252" measuredWidth="196" measuredHeight="252" border="true" src="cara9.jpg"/>
+  <widgets xsi:type="model:Image" id="172" x="864" y="842" width="184" height="249" measuredWidth="184" measuredHeight="249" border="true" src="cara10.jpg"/>
+  <widgets xsi:type="model:Panel" id="173" x="734" y="443" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="174" x="749" y="811" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="175" x="1453" y="441" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="176" x="1453" y="798" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="177" x="738" y="465" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="178" x="753" y="831" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="179" x="1457" y="465" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Arrow" id="180" x="1457" y="815" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
