@@ -1,76 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
-  <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="1273" measuredWidth="1497" measuredHeight="1273" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
-  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
-  <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:VScrollbar" id="5" x="1559" y="314" height="999" measuredWidth="17" measuredHeight="999"/>
-  <widgets xsi:type="model:Image" id="6" x="169" y="432" width="160" height="144" measuredWidth="160" measuredHeight="144"/>
-  <widgets xsi:type="model:Image" id="7" x="171" y="626" width="156" height="152" measuredWidth="156" measuredHeight="152"/>
-  <widgets xsi:type="model:Image" id="8" x="177" y="840" width="154" height="156" measuredWidth="154" measuredHeight="156"/>
-  <widgets xsi:type="model:Image" id="9" x="918" y="436" width="156" height="140" measuredWidth="156" measuredHeight="140"/>
-  <widgets xsi:type="model:Image" id="10" x="918" y="608" width="147" height="141" measuredWidth="147" measuredHeight="141"/>
-  <widgets xsi:type="model:Image" id="11" x="912" y="838" width="160" height="160" measuredWidth="160" measuredHeight="160"/>
-  <widgets xsi:type="model:TextField" id="12" x="384" y="682" text="María del Carmen García Mon " measuredWidth="314" measuredHeight="39">
-    <font size="24px" italic="true"/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="13" x="378" y="898" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
-    <font size="24px" italic="true"/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="14" x="1120" y="480" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
-    <font size="24px" italic="true"/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="15" x="1112" y="659" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
-    <font size="24px" italic="true"/>
-  </widgets>
-  <widgets xsi:type="model:TextField" id="16" x="1112" y="898" text="Carlota Moreno Garcia" measuredWidth="234" measuredHeight="39">
-    <font size="24px" italic="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="17" x="1416" y="352" text="Añadir" measuredWidth="94" measuredHeight="36" textAlignment="Center" icon="add (medium)">
+  <widgets xsi:type="model:Window" id="123" x="80" y="40" width="1497" height="1305" measuredWidth="1497" measuredHeight="1305" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="124" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="125" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Panel" id="126" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Label" id="127" x="1416" y="352" text="Añadir" measuredWidth="94" measuredHeight="36" textAlignment="Center" icon="add (medium)">
     <font size="20px" bold="true" italic="true"/>
   </widgets>
-  <widgets xsi:type="model:HLine" id="18" x="1392" y="344" width="136" measuredWidth="136" measuredHeight="6"/>
-  <widgets xsi:type="model:HLine" id="19" x="1392" y="386" width="136" measuredWidth="136" measuredHeight="6"/>
-  <widgets xsi:type="model:Label" id="20" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36">
+  <widgets xsi:type="model:HLine" id="128" x="1392" y="344" width="136" measuredWidth="136" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="129" x="1392" y="386" width="136" measuredWidth="136" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="130" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36" foreground="#f3f3f3">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="21" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36">
+  <widgets xsi:type="model:Label" id="131" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="22" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36">
+  <widgets xsi:type="model:Label" id="132" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="23" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36">
+  <widgets xsi:type="model:Label" id="133" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:VLine" id="24" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="25" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="26" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:TextArea" id="27" x="160" y="251" width="176" height="54" text="DAM - 1ªB" measuredWidth="176" measuredHeight="54" background="#de3831" borderColor="#de3831">
-    <font size="32px"/>
+  <widgets xsi:type="model:VLine" id="134" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="135" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="136" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:TextArea" id="137" x="128" y="251" width="176" height="54" text="DAM - 1ªB" measuredWidth="176" measuredHeight="54" background="#de3831">
+    <font size="32px" bold="true" italic="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="28" x="335" y="125" measuredWidth="6" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="138" x="335" y="125" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="29" x="378" y="125" measuredWidth="6" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="139" x="378" y="125" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="30" x="416" y="125" measuredWidth="6" measuredHeight="23">
+  <widgets xsi:type="model:Label" id="140" x="416" y="125" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="31" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+  <widgets xsi:type="model:Label" id="141" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="32" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+  <widgets xsi:type="model:Label" id="142" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="33" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+  <widgets xsi:type="model:Label" id="143" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Panel" id="34" x="362" y="484" width="343" height="44" measuredWidth="343" measuredHeight="44" border="none"/>
-  <widgets xsi:type="model:Label" id="35" x="408" y="486" text="Carlota Moreno García" measuredWidth="251" measuredHeight="39" foreground="#c00">
-    <font size="24px" bold="true" italic="true"/>
+  <widgets xsi:type="model:Panel" id="144" x="368" y="440" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
+  <widgets xsi:type="model:Label" id="145" x="414" y="442" text="Pablo Jimenez Romero" measuredWidth="250" measuredHeight="39" foreground="#c00">
+    <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
+  <widgets xsi:type="model:List" id="150" x="440" y="512" width="140" height="86" text="[] completo&#xA;[x] incompleto&#xA;" measuredWidth="140" measuredHeight="86" border="false" alpha="0">
+    <font size="17px"/>
+    <items x="0" y="2" width="140" height="33" text="[] completo"/>
+    <items x="0" y="35" width="140" height="33" text="[x] incompleto"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="151" x="440" y="893" width="140" height="86" text="[x] completo&#xA;[ ] incompleto&#xA;" measuredWidth="140" measuredHeight="86" border="false" alpha="0">
+    <font size="17px"/>
+    <items x="0" y="2" width="140" height="33" text="[x] completo"/>
+    <items x="0" y="35" width="140" height="33" text="[ ] incompleto"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="152" x="1157" y="520" width="140" height="86" text="[] completo&#xA;[] incompleto&#xA;" measuredWidth="140" measuredHeight="86" border="false" alpha="0">
+    <font size="17px"/>
+    <items x="0" y="2" width="140" height="33" text="[] completo"/>
+    <items x="0" y="35" width="140" height="33" text="[] incompleto"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="153" x="1159" y="888" width="140" height="86" text="[] completo&#xA;[ ] incompleto&#xA;" measuredWidth="140" measuredHeight="86" border="false" alpha="0">
+    <font size="17px"/>
+    <items x="0" y="2" width="140" height="33" text="[] completo"/>
+    <items x="0" y="35" width="140" height="33" text="[ ] incompleto"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="154" x="368" y="808" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
+  <widgets xsi:type="model:Label" id="155" x="421" y="810" text="Javier Sanchez Pizarro" measuredWidth="247" measuredHeight="39" foreground="#38761d">
+    <font size="24px" bold="true" italic="true" underline="false"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="156" x="1072" y="440" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
+  <widgets xsi:type="model:Label" id="157" x="1098" y="440" text="Mariano Fernandez García" measuredWidth="292" measuredHeight="39" foreground="#bf9000">
+    <font size="24px" bold="true" italic="true" underline="false"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="158" x="1072" y="798" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
+  <widgets xsi:type="model:Label" id="159" x="1104" y="800" text="Alejandro Mariam Medina" measuredWidth="289" measuredHeight="39" foreground="#bf9000">
+    <font size="24px" bold="true" italic="true" underline="false"/>
+  </widgets>
+  <widgets xsi:type="model:ColorPicker" id="160" x="638" y="266" width="73" measuredWidth="73" measuredHeight="23" background="#38761d"/>
+  <widgets xsi:type="model:SearchField" id="161" x="368" y="258" width="260" text="Search" measuredWidth="260" measuredHeight="39">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="162" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="163" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:HLine" id="164" x="1240" y="295" width="151" measuredWidth="151" measuredHeight="6" foreground="#fff"/>
+  <widgets xsi:type="model:Button" id="165" x="728" y="440" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+    <font size="32px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="166" x="744" y="808" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+    <font size="32px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="167" x="1423" y="440" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+    <font size="32px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="168" x="1432" y="798" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
+    <font size="32px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="169" x="144" y="443" width="197" height="240" measuredWidth="197" measuredHeight="240" border="true" src="cara7.jpg"/>
+  <widgets xsi:type="model:Image" id="170" x="146" y="838" width="194" height="241" measuredWidth="194" measuredHeight="241" border="true" src="cara8.jpg"/>
+  <widgets xsi:type="model:Image" id="171" x="844" y="431" width="196" height="252" measuredWidth="196" measuredHeight="252" border="true" src="cara9.jpg"/>
+  <widgets xsi:type="model:Image" id="172" x="864" y="856" width="184" height="249" measuredWidth="184" measuredHeight="249" border="true" src="cara10.jpg"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

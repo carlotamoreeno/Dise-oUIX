@@ -4,21 +4,9 @@
   <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
   <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:Label" id="5" x="985" y="260" text="Alumnos" measuredWidth="83" measuredHeight="36">
-    <font size="20px" bold="false"/>
-  </widgets>
   <widgets xsi:type="model:VLine" id="6" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Label" id="7" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36">
-    <font size="20px" bold="true"/>
-  </widgets>
   <widgets xsi:type="model:VLine" id="8" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Label" id="9" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36">
-    <font size="20px" bold="true"/>
-  </widgets>
   <widgets xsi:type="model:VLine" id="10" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Label" id="11" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36">
-    <font size="20px" bold="true"/>
-  </widgets>
   <widgets xsi:type="model:Label" id="12" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
@@ -32,12 +20,32 @@
     <font size="18px" bold="true" italic="true"/>
   </widgets>
   <widgets xsi:type="model:VScrollbar" id="16" x="1559" y="314" height="967" measuredWidth="17" measuredHeight="967"/>
-  <widgets xsi:type="model:SearchField" id="17" x="154" y="256" width="176" text="Search Empresa" measuredWidth="176" measuredHeight="36">
+  <widgets xsi:type="model:SearchField" id="17" x="345" y="260" width="304" text="Search Empresa" measuredWidth="304" measuredHeight="36">
     <font size="20px" bold="false" italic="true"/>
   </widgets>
   <widgets xsi:type="model:VSlider" id="18" x="1479" y="446" height="652" measuredWidth="17" measuredHeight="652"/>
-  <widgets xsi:type="model:Button" id="19" x="1392" y="1216" text="Editar tabla" measuredWidth="118" measuredHeight="35">
+  <widgets xsi:type="model:Button" id="19" x="1392" y="1216" text="Editar tabla" measuredWidth="118" measuredHeight="35" background="#999">
     <font size="18px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="21" x="192" y="536" width="320" height="108" measuredWidth="320" measuredHeight="108" border="true" src="telefonica.jpg"/>
+  <widgets xsi:type="model:Image" id="22" x="192" y="848" width="329" height="96" measuredWidth="329" measuredHeight="96" border="true" src="movistar.jpg"/>
+  <widgets xsi:type="model:Label" id="23" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36" foreground="#f3f3f3">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="24" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="26" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="27" x="1112" y="295" width="102" measuredWidth="102" measuredHeight="6" foreground="#fff"/>
+  <widgets xsi:type="model:VLine" id="28" x="1288" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="30" x="1416" y="118" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:TextArea" id="31" x="128" y="251" width="176" height="54" text="DAM - 1ªB" measuredWidth="176" measuredHeight="54" background="#de3831">
+    <font size="32px" bold="true" italic="true"/>
   </widgets>
   <hRuler/>
   <vRuler/>
