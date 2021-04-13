@@ -78,7 +78,7 @@
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="158" x="1072" y="798" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
-  <widgets xsi:type="model:Label" id="159" x="1099" y="812" text="Alejandro Mariam Medina" measuredWidth="289" measuredHeight="39" foreground="#bf9000">
+  <widgets xsi:type="model:Label" id="159" x="1099" y="800" text="Alejandro Mariam Medina" measuredWidth="289" measuredHeight="39" foreground="#bf9000">
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:ColorPicker" id="160" x="638" y="266" width="73" measuredWidth="73" measuredHeight="23" background="#38761d"/>

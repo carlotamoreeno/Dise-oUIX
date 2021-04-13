@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="2" x="90" y="50" width="1497" height="1305" measuredWidth="1497" measuredHeight="1305" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="3" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="4" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Panel" id="5" x="90" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:VLine" id="11" x="1286" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="12" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:TextArea" id="13" x="128" y="251" width="408" height="54" text="             Anexo 2.1" measuredWidth="408" measuredHeight="54" background="#de3831">
+    <font size="32px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="335" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="378" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="416" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="19" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="22" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="23" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Image" id="25" x="560" y="368" width="874" height="969" measuredWidth="874" measuredHeight="969" border="true" src="assets/anexo.PNG"/>
+  <widgets xsi:type="model:Arrow" id="26" x="1224" y="280" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
+  <widgets xsi:type="model:Arrow" id="27" x="1325" y="280" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
+  <widgets xsi:type="model:Panel" id="29" x="176" y="376" width="272" height="856" measuredWidth="272" measuredHeight="856" background="#666" alpha="64" foreground="#666" border="none"/>
+  <widgets xsi:type="model:Label" id="30" x="1456" y="266" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="31" x="213" y="1264" width="188" height="48" text="Enviar" measuredWidth="188" measuredHeight="48" background="#666" icon="direction (medium)">
+    <font size="24px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="33" x="200" y="480" width="216" height="49" text="Editar" measuredWidth="216" measuredHeight="49" background="#666" icon="arrow-cursor (medium)">
+    <font size="24px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="34" x="208" y="648" width="208" height="45" text="Guardar" measuredWidth="208" measuredHeight="45" background="#666" icon="download2 (medium)">
+    <font size="24px" bold="true" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:List" id="35" x="216" y="774" width="183" height="312" text="|formato.word&#xA;formato.pptx&#xA;|formato.svg&#xA;formato.png&#xA;|formato.txt&#xA;(bg:green)|formato.pdf&#xA;|formato.doc" measuredWidth="183" measuredHeight="312">
+    <font size="24px" bold="false" italic="true"/>
+    <items x="0" y="2" width="183" height="42" text="|formato.word"/>
+    <items x="0" y="44" width="183" height="42" text="formato.pptx"/>
+    <items x="0" y="86" width="183" height="42" text="|formato.svg"/>
+    <items x="0" y="128" width="183" height="42" text="formato.png"/>
+    <items x="0" y="170" width="183" height="42" text="|formato.txt"/>
+    <items x="0" y="212" width="183" height="42" text="(bg:green)|formato.pdf"/>
+    <items x="0" y="254" width="183" height="42" text="|formato.doc"/>
+  </widgets>
+  <widgets xsi:type="model:Combo" id="36" x="378" y="736" measuredWidth="27" measuredHeight="39">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="38" x="213" y="737" width="171" text="Tipo formato" measuredWidth="171" measuredHeight="39">
+    <font size="24px" bold="true" italic="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
