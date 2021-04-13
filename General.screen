@@ -28,26 +28,39 @@
   <widgets xsi:type="model:Label" id="14" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Table" id="15" x="168" y="360" width="1313" height="680" text="=.Nombre,=.Apellidos,=.Anexo 2.1,=.Anexo 2.2,=.Anexo 3,=.Anexo 7,=.Anexo 8,=.Configuración&#xA;Carlota,Moreno García,[],[x],[x],[x],[x],[Edit]  [View]&#xA;Mariano,Fernandez García,[x],[],[x],[],[],[Edit]  [View]&#xA;Miguel,Perez Santos,[x],[x],[x],[x],[x],[Edit]  [View]&#xA;Alejandro,Mariam Medina,[x],[],[],[x],[x],[Edit]  [View]&#xA;Serena,Chicotteli Agudo,[x],[],[x],[x],[x],[Edit]  [View]&#xA;Pilar,Alonso Martinez,[x],[x],[],[x],[],[Edit]  [View]" measuredWidth="1313" measuredHeight="680" alternative="#eee">
-    <font/>
-    <items x="1178" y="24" width="20" height="15" text="Edit"/>
-    <items x="1204" y="24" width="25" height="15" text="View"/>
-    <items x="1178" y="46" width="20" height="15" text="Edit"/>
-    <items x="1204" y="46" width="25" height="15" text="View"/>
-    <items x="1178" y="68" width="20" height="15" text="Edit"/>
-    <items x="1204" y="68" width="25" height="15" text="View"/>
-    <items x="1178" y="90" width="20" height="15" text="Edit"/>
-    <items x="1204" y="90" width="25" height="15" text="View"/>
-    <items x="1178" y="112" width="20" height="15" text="Edit"/>
-    <items x="1204" y="112" width="25" height="15" text="View"/>
-    <items x="1178" y="134" width="20" height="15" text="Edit"/>
-    <items x="1204" y="134" width="25" height="15" text="View"/>
+  <widgets xsi:type="model:Table" id="15" x="158" y="432" width="1341" height="504" text="=.Nombre,=.Apellidos,=.Anexo 2.1,=.Anexo 2.2,=.Anexo 3,=.Anexo 4,=.Anexo 5,=.Anexo 6,=.Anexo 7,=.Anexo 8,=.Configuración&#xA;Carlota,Moreno García,[],[x],[x],[x],[-],[-],[x],[x],[Edit]  [View]&#xA;Mariano,Fernandez García,[x],[],[x],[],[-],[-],[x],[],[Edit]  [View]&#xA;Miguel,Perez Santos,[x],[x],[x],[x],[-],[-],[x],[x],[Edit]  [View]&#xA;Alejandro,Mariam Medina,[],[],[],[x],[-],[-],[x],[x],[Edit]  [View]&#xA;Serena,Chicotteli Agudo,[x],[],[x],[x],[-],[-],[],[x],[Edit]  [View]&#xA;Pilar,Alonso Martinez,[],[x],[],[x],[-],[-],[x],[],[Edit]  [View]&#xA;Pablo,Jimenez Romero,[],[x],[],[x],[x],[x],[],[],[Edit]  [View]&#xA;Merche,Fernandez García,[],[x],[],[],[x],[x],[x],[x],[Edit]  [View]&#xA;Javier,Sanchez Pizarro,[x],[x],[],[],[x],[x],[],[],[Edit]  [View]&#xA;Alejandra,Mariam Medina,[],[x],[],[x],[x],[x],[],[],[Edit]  [View]" measuredWidth="1341" measuredHeight="504" alternative="#eee">
+    <font size="24px" bold="true"/>
+    <items x="1200" y="48" width="42" height="31" text="Edit"/>
+    <items x="1254" y="48" width="52" height="31" text="View"/>
+    <items x="1200" y="91" width="42" height="31" text="Edit"/>
+    <items x="1254" y="91" width="52" height="31" text="View"/>
+    <items x="1200" y="134" width="42" height="31" text="Edit"/>
+    <items x="1254" y="134" width="52" height="31" text="View"/>
+    <items x="1200" y="177" width="42" height="31" text="Edit"/>
+    <items x="1254" y="177" width="52" height="31" text="View"/>
+    <items x="1200" y="220" width="42" height="31" text="Edit"/>
+    <items x="1254" y="220" width="52" height="31" text="View"/>
+    <items x="1200" y="263" width="42" height="31" text="Edit"/>
+    <items x="1254" y="263" width="52" height="31" text="View"/>
+    <items x="1200" y="306" width="42" height="31" text="Edit"/>
+    <items x="1254" y="306" width="52" height="31" text="View"/>
+    <items x="1200" y="349" width="42" height="31" text="Edit"/>
+    <items x="1254" y="349" width="52" height="31" text="View"/>
+    <items x="1200" y="392" width="42" height="31" text="Edit"/>
+    <items x="1254" y="392" width="52" height="31" text="View"/>
+    <items x="1200" y="435" width="42" height="31" text="Edit"/>
+    <items x="1254" y="435" width="52" height="31" text="View"/>
   </widgets>
-  <widgets xsi:type="model:TextArea" id="17" x="128" y="251" width="176" height="54" text="DAM - 1ªB" measuredWidth="176" measuredHeight="54" background="#de3831">
+  <widgets xsi:type="model:TextArea" id="17" x="128" y="251" width="176" height="54" text="DAM - 2ªB" measuredWidth="176" measuredHeight="54" background="#de3831">
     <font size="32px" bold="true" italic="true"/>
   </widgets>
   <widgets xsi:type="model:SearchField" id="18" x="368" y="258" width="260" text="Search" measuredWidth="260" measuredHeight="39">
     <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="19" x="1288" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="20" x="1418" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Button" id="21" x="224" y="992" width="208" height="45" text="Guardar" measuredWidth="208" measuredHeight="45" background="#666" icon="download2 (medium)">
+    <font size="24px" bold="true" italic="true"/>
   </widgets>
   <hRuler/>
   <vRuler/>
