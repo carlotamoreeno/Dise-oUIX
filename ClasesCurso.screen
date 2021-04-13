@@ -34,15 +34,15 @@
   </widgets>
   <widgets xsi:type="model:Panel" id="32" x="1374" y="906" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="33" x="1378" y="930" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Panel" id="34" x="248" y="976" width="1168" measuredWidth="1168" measuredHeight="100"/>
-  <widgets xsi:type="model:Label" id="35" x="304" y="1008" text="DAM 2º A" measuredWidth="108" measuredHeight="36">
+  <widgets xsi:type="model:Panel" id="34" x="248" y="976" width="1168" measuredWidth="1168" measuredHeight="100" link="AlumGeneral.screen"/>
+  <widgets xsi:type="model:Label" id="35" x="304" y="1008" text="DAM 2º B" measuredWidth="107" measuredHeight="36" link="AlumGeneral.screen">
     <font size="24px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="36" x="1374" y="1034" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="37" x="1378" y="1058" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
   <widgets xsi:type="model:Image" id="75" x="80" y="314" width="1480" height="288" measuredWidth="1480" measuredHeight="288" src="assets/dam.jpg" grayscale="true"/>
   <widgets xsi:type="model:Panel" id="79" x="248" y="1096" width="1168" height="58" measuredWidth="1168" measuredHeight="58"/>
-  <widgets xsi:type="model:Label" id="80" x="304" y="1128" text="DAM 2º B" measuredWidth="107" measuredHeight="36">
+  <widgets xsi:type="model:Label" id="80" x="304" y="1117" text="DAM 2º A" measuredWidth="108" measuredHeight="36">
     <font size="24px"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="97" x="198" y="421" width="1210" measuredWidth="1210" measuredHeight="100" background="#919191"/>

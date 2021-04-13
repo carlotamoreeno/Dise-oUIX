@@ -19,7 +19,7 @@
   </widgets>
   <widgets xsi:type="model:Image" id="65" x="168" y="408" width="160" height="223" measuredWidth="160" measuredHeight="223" border="true" src="assets/cara1.jpg"/>
   <widgets xsi:type="model:Image" id="66" x="160" y="720" width="181" height="224" measuredWidth="181" measuredHeight="224" border="true" src="assets/cara2.jpg"/>
-  <widgets xsi:type="model:Image" id="67" x="154" y="1039" width="193" height="209" measuredWidth="193" measuredHeight="209" border="true" src="assets/cara6.jpg"/>
+  <widgets xsi:type="model:Image" id="67" x="154" y="1039" width="193" height="209" measuredWidth="193" measuredHeight="209" link="Alumno.screen" border="true" src="assets/cara6.jpg"/>
   <widgets xsi:type="model:Image" id="68" x="884" y="704" width="151" height="212" measuredWidth="151" measuredHeight="212" border="true" src="assets/cara4.jpg"/>
   <widgets xsi:type="model:Image" id="69" x="884" y="424" width="150" height="216" measuredWidth="150" measuredHeight="216" border="true" src="assets/cara5.jpg"/>
   <widgets xsi:type="model:Image" id="70" x="884" y="1024" width="151" height="224" measuredWidth="151" measuredHeight="224" border="true" src="assets/cara3.jpg"/>
@@ -58,7 +58,7 @@
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="81" x="378" y="1045" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
-  <widgets xsi:type="model:Label" id="82" x="407" y="1047" text="Serena Chicotteli Agudo" measuredWidth="282" measuredHeight="36" foreground="#38761d">
+  <widgets xsi:type="model:Label" id="82" x="407" y="1047" text="Serena Chicotteli Agudo" measuredWidth="282" measuredHeight="36" foreground="#38761d" link="Alumno.screen">
     <font size="24px" bold="true" italic="true" underline="false"/>
   </widgets>
   <widgets xsi:type="model:Panel" id="83" x="1073" y="440" width="343" height="44" measuredWidth="343" measuredHeight="44"/>
@@ -80,7 +80,7 @@
   <widgets xsi:type="model:Panel" id="96" x="710" y="441" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Arrow" id="97" x="714" y="465" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
   <widgets xsi:type="model:Panel" id="98" x="710" y="737" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
-  <widgets xsi:type="model:Panel" id="99" x="720" y="1046" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Panel" id="99" x="720" y="1046" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00" link="Alumno.screen"/>
   <widgets xsi:type="model:Panel" id="100" x="1414" y="440" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Panel" id="101" x="1414" y="721" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Panel" id="102" x="1414" y="1025" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
