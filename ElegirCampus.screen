@@ -3,14 +3,14 @@
   <widgets xsi:type="model:Window" id="1" x="79" y="40" width="1497" height="1305" measuredWidth="1497" measuredHeight="1305" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
   <widgets xsi:type="model:Image" id="2" x="112" y="88" width="144" height="137" measuredWidth="144" measuredHeight="137" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="3" x="304" y="88" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:Placeholder" id="4" x="304" y="432" width="438" height="417" text="Campus Villaviciosa" measuredWidth="438" measuredHeight="417"/>
-  <widgets xsi:type="model:Placeholder" id="6" x="912" y="432" width="438" height="417" text="Campus Alcobendas" measuredWidth="438" measuredHeight="417"/>
-  <widgets xsi:type="model:Label" id="7" x="417" y="992" text="Villaviciosa" measuredWidth="211" measuredHeight="67">
+  <widgets xsi:type="model:Label" id="7" x="360" y="992" text="Villaviciosa" measuredWidth="211" measuredHeight="67">
     <font size="43px"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="8" x="1018" y="992" text="Alcobendas" measuredWidth="225" measuredHeight="67">
+  <widgets xsi:type="model:Label" id="8" x="1099" y="992" text="Alcobendas" measuredWidth="225" measuredHeight="67">
     <font size="43px"/>
   </widgets>
+  <widgets xsi:type="model:Image" id="9" x="115" y="465" width="702" height="392" measuredWidth="702" measuredHeight="392" border="true" src="assets/CampusVilla.jpg"/>
+  <widgets xsi:type="model:Image" id="10" x="881" y="464" width="662" height="393" measuredWidth="662" measuredHeight="393" border="true" src="assets/CampusAlco.jpg"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
