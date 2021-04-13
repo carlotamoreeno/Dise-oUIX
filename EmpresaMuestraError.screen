@@ -56,6 +56,10 @@
   <widgets xsi:type="model:Label" id="30" x="1160" y="314" measuredWidth="38" measuredHeight="32" icon="close (large)">
     <font/>
   </widgets>
+  <widgets xsi:type="model:VLine" id="31" x="1157" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="32" x="1061" y="121" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

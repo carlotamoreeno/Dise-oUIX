@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="2113" measuredWidth="1497" measuredHeight="2113" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="31" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="32" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Label" id="33" x="335" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="34" x="378" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="35" x="416" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="36" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="37" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="38" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="39" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="40" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="41" x="352" y="135" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
+  <widgets xsi:type="model:VLine" id="42" x="416" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="43" x="440" y="135" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
+  <widgets xsi:type="model:VLine" id="44" x="506" y="117" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="45" x="528" y="125" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="46" x="1061" y="121" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="47" x="1157" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Text" id="48" x="153" y="272" width="1352" height="240" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." measuredWidth="1352" measuredHeight="240">
+    <font size="28px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:VideoPlayer" id="49" x="421" y="488" width="760" height="424" measuredWidth="760" measuredHeight="424"/>
+  <widgets xsi:type="model:TabbedPane" id="50" x="129" y="976" width="1400" height="1064" text="P.Inicio,P.Campus,P.Cursos, P.Clases, P.Alumnos, P.AlumnosC.Esp , P.Info Alumno ,P.Seccion Anexo, P.Botones Generares , P.Significado Errores" measuredWidth="1400" measuredHeight="1064" selection="0" background="#eee">
+    <items x="10" y="0" width="83" height="50" text="P.Inicio"/>
+    <items x="93" y="0" width="106" height="50" text="P.Campus"/>
+    <items x="199" y="0" width="94" height="50" text="P.Cursos"/>
+    <items x="293" y="0" width="89" height="50" text="P.Clases"/>
+    <items x="382" y="0" width="113" height="50" text="P.Alumnos"/>
+    <items x="495" y="0" width="164" height="50" text="P.AlumnosC.Esp "/>
+    <items x="659" y="0" width="149" height="50" text="P.Info Alumno "/>
+    <items x="808" y="0" width="163" height="50" text="P.Seccion Anexo"/>
+    <items x="971" y="0" width="204" height="50" text="P.Botones Generares "/>
+    <items x="1175" y="0" width="200" height="50" text="P.Significado Errores"/>
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:VideoPlayer" id="51" x="224" y="1152" width="432" height="260" measuredWidth="432" measuredHeight="260"/>
+  <widgets xsi:type="model:VideoPlayer" id="52" x="976" y="1152" width="404" height="260" measuredWidth="404" measuredHeight="260"/>
+  <widgets xsi:type="model:Text" id="54" x="240" y="1464" width="400" height="200" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." measuredWidth="400" measuredHeight="200">
+    <font size="18px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="55" x="977" y="1456" width="400" height="200" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." measuredWidth="400" measuredHeight="200">
+    <font size="18px"/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="56" x="1504" y="1026" height="1013" measuredWidth="17" measuredHeight="1013"/>
+  <widgets xsi:type="model:VScrollbar" id="57" x="1559" y="176" height="1976" measuredWidth="17" measuredHeight="1976"/>
+  <widgets xsi:type="model:LinkBar" id="58" x="1082" y="2096" measuredWidth="4" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="3" height="23"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="60" x="1032" y="2084" width="281" height="48" text="Más información" measuredWidth="281" measuredHeight="48" background="#c00" icon="direction (medium)">
+    <font size="24px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="61" x="1342" y="2096" text="TELF:" measuredWidth="33" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="63" x="1374" y="2096" text="+ 34129 473 820" measuredWidth="89" measuredHeight="23" foreground="#00f">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="64" x="240" y="1712" width="1180" height="72" text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." measuredWidth="1180" measuredHeight="72">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="65" x="307" y="1824" width="1045" height="192" text="* Paso 1&#xA;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. &#xA;* Paso 2&#xA;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. " measuredWidth="1045" measuredHeight="192">
+    <font size="28px"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="66" x="1045" y="155" width="97" measuredWidth="97" measuredHeight="6" foreground="#fff"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
