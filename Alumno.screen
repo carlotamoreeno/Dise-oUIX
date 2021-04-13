@@ -53,10 +53,10 @@
   <widgets xsi:type="model:Label" id="53" x="272" y="656" text="Serena Chicotteli Agudo" measuredWidth="375" measuredHeight="46" foreground="#c00">
     <font size="32px" bold="true" italic="true" underline="false"/>
   </widgets>
-  <widgets xsi:type="model:Shape" id="54" x="557" y="480" width="81" height="77" text="1" measuredWidth="81" measuredHeight="77" background="#c00">
+  <widgets xsi:type="model:Shape" id="54" x="557" y="480" width="81" height="77" text="1" measuredWidth="81" measuredHeight="77">
     <font size="24px"/>
   </widgets>
-  <widgets xsi:type="model:Shape" id="55" x="815" y="480" width="81" height="77" text="2" measuredWidth="81" measuredHeight="77">
+  <widgets xsi:type="model:Shape" id="55" x="815" y="480" width="81" height="77" text="2" measuredWidth="81" measuredHeight="77" background="#c00">
     <font size="24px"/>
   </widgets>
   <widgets xsi:type="model:Shape" id="56" x="1070" y="480" width="81" height="77" text="3" measuredWidth="81" measuredHeight="77">
@@ -103,8 +103,8 @@
   <widgets xsi:type="model:Panel" id="77" x="1007" y="979" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
   <widgets xsi:type="model:Panel" id="78" x="1164" y="979" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
   <widgets xsi:type="model:Panel" id="79" x="1312" y="979" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
-  <widgets xsi:type="model:Icon" id="85" x="1171" y="858" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
-  <widgets xsi:type="model:Icon" id="86" x="1014" y="989" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
+  <widgets xsi:type="model:Icon" id="85" x="1319" y="858" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
+  <widgets xsi:type="model:Icon" id="86" x="1319" y="986" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
   <widgets xsi:type="model:Panel" id="89" x="227" y="1080" width="1203" measuredWidth="1203" measuredHeight="100"/>
   <widgets xsi:type="model:Label" id="81" x="283" y="1112" text="Anexo 7" measuredWidth="92" measuredHeight="36">
     <font size="24px"/>
@@ -112,7 +112,7 @@
   <widgets xsi:type="model:Panel" id="82" x="1007" y="1107" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
   <widgets xsi:type="model:Panel" id="83" x="1164" y="1107" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
   <widgets xsi:type="model:Panel" id="84" x="1312" y="1107" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
-  <widgets xsi:type="model:Icon" id="87" x="1319" y="1114" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
+  <widgets xsi:type="model:Icon" id="87" x="1171" y="1114" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
   <widgets xsi:type="model:Panel" id="90" x="227" y="1200" width="1203" measuredWidth="1203" measuredHeight="100"/>
   <widgets xsi:type="model:Label" id="91" x="283" y="1232" text="Anexo 8" measuredWidth="92" measuredHeight="36">
     <font size="24px"/>
@@ -120,7 +120,13 @@
   <widgets xsi:type="model:Panel" id="92" x="1007" y="1227" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
   <widgets xsi:type="model:Panel" id="93" x="1164" y="1227" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
   <widgets xsi:type="model:Panel" id="94" x="1312" y="1227" width="45" height="45" measuredWidth="45" measuredHeight="45"/>
-  <widgets xsi:type="model:Icon" id="95" x="1319" y="1234" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
+  <widgets xsi:type="model:Icon" id="95" x="1014" y="1234" measuredWidth="32" measuredHeight="32" icon="check (large)"/>
+  <widgets xsi:type="model:Label" id="96" x="807" y="443" text="04/04/2021" measuredWidth="98" measuredHeight="28">
+    <font size="17px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="97" x="1062" y="443" text="04/07/2021" measuredWidth="98" measuredHeight="28">
+    <font size="17px"/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
