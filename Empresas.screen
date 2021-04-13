@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
   <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="1241" measuredWidth="1497" measuredHeight="1241" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
-  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:VLine" id="6" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
@@ -27,8 +27,8 @@
   <widgets xsi:type="model:Button" id="19" x="1392" y="1216" text="Editar tabla" measuredWidth="118" measuredHeight="35" background="#999">
     <font size="18px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Image" id="21" x="176" y="536" width="282" height="88" measuredWidth="282" measuredHeight="88" border="true" src="telefonica.jpg"/>
-  <widgets xsi:type="model:Image" id="22" x="176" y="888" width="281" height="72" measuredWidth="281" measuredHeight="72" border="true" src="movistar.jpg"/>
+  <widgets xsi:type="model:Image" id="21" x="176" y="536" width="282" height="88" measuredWidth="282" measuredHeight="88" border="true" src="assets/telefonica.jpg"/>
+  <widgets xsi:type="model:Image" id="22" x="176" y="888" width="281" height="72" measuredWidth="281" measuredHeight="72" border="true" src="assets/movistar.jpg"/>
   <widgets xsi:type="model:Label" id="23" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36" foreground="#f3f3f3">
     <font size="20px" bold="true"/>
   </widgets>

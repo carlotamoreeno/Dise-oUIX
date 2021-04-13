@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
   <widgets xsi:type="model:Window" id="1" x="80" y="40" width="1497" height="1145" measuredWidth="1497" measuredHeight="1145" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
-  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
   <widgets xsi:type="model:VScrollbar" id="5" x="1559" y="314" height="775" measuredWidth="17" measuredHeight="775"/>
   <widgets xsi:type="model:Image" id="6" x="173" y="280" width="205" height="184" measuredWidth="205" measuredHeight="184"/>
   <widgets xsi:type="model:Label" id="17" x="1416" y="352" text="Añadir" measuredWidth="94" measuredHeight="36" textAlignment="Center" icon="add (medium)">

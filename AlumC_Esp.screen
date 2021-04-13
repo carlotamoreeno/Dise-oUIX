@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
   <widgets xsi:type="model:Window" id="123" x="80" y="40" width="1497" height="1305" measuredWidth="1497" measuredHeight="1305" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
-  <widgets xsi:type="model:Image" id="124" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="logo.PNG"/>
+  <widgets xsi:type="model:Image" id="124" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="125" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Panel" id="126" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Label" id="127" x="1416" y="352" text="Añadir" measuredWidth="94" measuredHeight="36" textAlignment="Center" icon="add (medium)">
@@ -100,10 +100,10 @@
   <widgets xsi:type="model:Button" id="168" x="1414" y="798" width="40" height="43" text="*" measuredWidth="40" measuredHeight="43" background="#9fc5e8">
     <font size="32px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Image" id="169" x="144" y="443" width="197" height="240" measuredWidth="197" measuredHeight="240" border="true" src="cara7.jpg"/>
-  <widgets xsi:type="model:Image" id="170" x="146" y="838" width="194" height="241" measuredWidth="194" measuredHeight="241" border="true" src="cara8.jpg"/>
-  <widgets xsi:type="model:Image" id="171" x="842" y="450" width="196" height="252" measuredWidth="196" measuredHeight="252" border="true" src="cara9.jpg"/>
-  <widgets xsi:type="model:Image" id="172" x="864" y="842" width="184" height="249" measuredWidth="184" measuredHeight="249" border="true" src="cara10.jpg"/>
+  <widgets xsi:type="model:Image" id="169" x="144" y="443" width="197" height="240" measuredWidth="197" measuredHeight="240" border="true" src="assets/cara7.jpg"/>
+  <widgets xsi:type="model:Image" id="170" x="146" y="838" width="194" height="241" measuredWidth="194" measuredHeight="241" border="true" src="assets/cara8.jpg"/>
+  <widgets xsi:type="model:Image" id="171" x="842" y="450" width="196" height="252" measuredWidth="196" measuredHeight="252" border="true" src="assets/cara9.jpg"/>
+  <widgets xsi:type="model:Image" id="172" x="864" y="842" width="184" height="249" measuredWidth="184" measuredHeight="249" border="true" src="assets/cara10.jpg"/>
   <widgets xsi:type="model:Panel" id="173" x="734" y="443" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Panel" id="174" x="749" y="811" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
   <widgets xsi:type="model:Panel" id="175" x="1453" y="441" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
