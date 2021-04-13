@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="80" y="52" width="1497" height="1101" measuredWidth="1497" measuredHeight="1101" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
+  <widgets xsi:type="model:Panel" id="3" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Panel" id="4" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:TextArea" id="5" x="145" y="251" width="296" height="54" text="Grados Superiores" measuredWidth="296" measuredHeight="54" background="#de3831" borderColor="#de3831">
+    <font size="32px"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="335" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="7" x="378" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="8" x="416" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="9" x="1189" y="121" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="1325" y="121" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="1456" y="121" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="12" x="1559" y="81" height="1073" measuredWidth="17" measuredHeight="1073"/>
+  <widgets xsi:type="model:Panel" id="15" x="1390" y="450" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="16" x="1394" y="474" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Label" id="17" x="1224" y="262" text="Campus Villaviciosa de Odón" measuredWidth="261" measuredHeight="31" foreground="#fff">
+    <font size="20px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="26" x="248" y="720" width="1168" measuredWidth="1168" measuredHeight="100"/>
+  <widgets xsi:type="model:Label" id="27" x="304" y="752" text="ASIR 2º 1" measuredWidth="106" measuredHeight="36">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="28" x="1374" y="778" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="29" x="1378" y="802" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Panel" id="30" x="248" y="848" width="1168" measuredWidth="1168" measuredHeight="100"/>
+  <widgets xsi:type="model:Label" id="31" x="304" y="880" text="ASIR 2º 2" measuredWidth="106" measuredHeight="36">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="32" x="1374" y="906" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="33" x="1378" y="930" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Panel" id="34" x="248" y="976" width="1168" measuredWidth="1168" measuredHeight="100"/>
+  <widgets xsi:type="model:Label" id="35" x="304" y="1008" text="DAM 2º 1" measuredWidth="107" measuredHeight="36">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="36" x="1374" y="1034" width="42" height="42" measuredWidth="42" measuredHeight="42" background="#c00"/>
+  <widgets xsi:type="model:Arrow" id="37" x="1378" y="1058" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Image" id="75" x="80" y="314" width="1480" height="288" measuredWidth="1480" measuredHeight="288" src="assets/dam.jpg" grayscale="true"/>
+  <widgets xsi:type="model:Panel" id="79" x="248" y="1096" width="1168" height="58" measuredWidth="1168" measuredHeight="58"/>
+  <widgets xsi:type="model:Label" id="80" x="304" y="1128" text="DAM 2º 2" measuredWidth="107" measuredHeight="36">
+    <font size="24px"/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="97" x="198" y="421" width="1210" measuredWidth="1210" measuredHeight="100" background="#919191"/>
+  <widgets xsi:type="model:Image" id="100" x="80" y="314" width="1480" height="288" measuredWidth="1480" measuredHeight="288" src="assets/dam2.jpg"/>
+  <widgets xsi:type="model:Label" id="77" x="218" y="448" width="1284" text="TÉCNICO SUPERIOR EN DESARROLLO DE APLICACIONES MULTIPLATAFORMA" measuredWidth="1284" measuredHeight="46" foreground="#fff">
+    <font size="32px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="101" x="480" y="262" width="304" text="busca tu curso" measuredWidth="304" measuredHeight="31">
+    <font size="20px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="102" x="486" y="127" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="103" x="529" y="127" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="104" x="567" y="127" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="105" x="360" y="127" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="106" x="403" y="127" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="107" x="441" y="127" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="108" x="553" y="127" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="109" x="531" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="110" x="465" y="137" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
+  <widgets xsi:type="model:VLine" id="111" x="441" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="112" x="377" y="137" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
+  <widgets xsi:type="model:Label" id="113" x="1056" y="121" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="115" x="1189" y="121" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="116" x="1325" y="121" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="117" x="1456" y="121" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="118" x="1288" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="119" x="1416" y="118" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="120" x="1157" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Tooltip" id="121" x="551" y="292" text="No se ha encontrado a ningun grado superior         " measuredWidth="556" measuredHeight="53" background="#ffd966" position="topLeft">
+    <font size="24px" bold="true"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
