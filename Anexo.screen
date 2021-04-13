@@ -72,6 +72,9 @@
   <widgets xsi:type="model:Label" id="45" x="1061" y="121" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
     <font size="20px" bold="true"/>
   </widgets>
+  <widgets xsi:type="model:Button" id="46" x="218" y="1136" width="188" height="48" text="Actualizar" measuredWidth="188" measuredHeight="48" background="#666" icon="refresh (medium)">
+    <font size="24px" bold="true"/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
