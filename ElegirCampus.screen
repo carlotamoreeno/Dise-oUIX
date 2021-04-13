@@ -3,14 +3,55 @@
   <widgets xsi:type="model:Window" id="1" x="79" y="40" width="1497" height="1305" measuredWidth="1497" measuredHeight="1305" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
   <widgets xsi:type="model:Image" id="2" x="112" y="88" width="144" height="137" measuredWidth="144" measuredHeight="137" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="3" x="304" y="88" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:Label" id="7" x="360" y="992" text="Villaviciosa" measuredWidth="211" measuredHeight="67">
-    <font size="43px"/>
+  <widgets xsi:type="model:Image" id="9" x="240" y="434" width="662" height="392" measuredWidth="662" measuredHeight="392" border="true" src="assets/CampusVilla.jpg" grayscale="true"/>
+  <widgets xsi:type="model:Image" id="10" x="240" y="904" width="662" height="393" measuredWidth="662" measuredHeight="393" border="true" src="assets/CampusAlco.jpg" grayscale="true"/>
+  <widgets xsi:type="model:Label" id="11" x="463" y="119" measuredWidth="6" measuredHeight="23">
+    <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="8" x="1099" y="992" text="Alcobendas" measuredWidth="225" measuredHeight="67">
-    <font size="43px"/>
+  <widgets xsi:type="model:Label" id="12" x="506" y="119" measuredWidth="6" measuredHeight="23">
+    <font/>
   </widgets>
-  <widgets xsi:type="model:Image" id="9" x="115" y="465" width="702" height="392" measuredWidth="702" measuredHeight="392" border="true" src="assets/CampusVilla.jpg"/>
-  <widgets xsi:type="model:Image" id="10" x="881" y="464" width="662" height="393" measuredWidth="662" measuredHeight="393" border="true" src="assets/CampusAlco.jpg"/>
+  <widgets xsi:type="model:Label" id="13" x="544" y="119" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="1183" y="113" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="1319" y="113" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="1450" y="113" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="1064" y="113" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="337" y="119" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="19" x="380" y="119" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="418" y="119" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="21" x="530" y="119" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="22" x="508" y="111" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="23" x="442" y="129" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
+  <widgets xsi:type="model:VLine" id="24" x="418" y="113" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Arrow" id="25" x="354" y="129" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
+  <widgets xsi:type="model:VLine" id="26" x="1282" y="113" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="27" x="1410" y="110" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="28" x="1151" y="113" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Panel" id="29" x="79" y="272" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
+  <widgets xsi:type="model:Text" id="30" x="1040" y="570" width="400" height="120" text="Campus&#xA;Villaviciosa de Odón" measuredWidth="400" measuredHeight="120" textAlignment="Center">
+    <font size="40px" bold="false" italic="true"/>
+  </widgets>
+  <widgets xsi:type="model:Text" id="34" x="1032" y="1041" width="400" height="120" text="Campus&#xA;Alcobendas" measuredWidth="400" measuredHeight="120" textAlignment="Center">
+    <font size="40px" bold="false" italic="true"/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
