@@ -4,26 +4,11 @@
   <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:Label" id="5" x="1416" y="352" text="Añadir" measuredWidth="94" measuredHeight="36" textAlignment="Center" icon="add (medium)">
+  <widgets xsi:type="model:Label" id="5" x="1416" y="352" text="Añadir" measuredWidth="93" measuredHeight="31" textAlignment="Center" icon="add (medium)">
     <font size="20px" bold="true" italic="true"/>
   </widgets>
   <widgets xsi:type="model:HLine" id="6" x="1392" y="344" width="136" measuredWidth="136" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="7" x="1392" y="386" width="136" measuredWidth="136" measuredHeight="6"/>
-  <widgets xsi:type="model:Label" id="8" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36" foreground="#f3f3f3">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="9" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="10" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="11" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:VLine" id="12" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="13" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="14" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:TextArea" id="15" x="128" y="251" width="176" height="54" text="DAM - 2ªB" measuredWidth="176" measuredHeight="54" background="#de3831">
     <font size="32px" bold="true" italic="true"/>
   </widgets>
@@ -36,22 +21,10 @@
   <widgets xsi:type="model:Label" id="18" x="416" y="125" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="19" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="20" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="21" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
   <widgets xsi:type="model:ColorPicker" id="22" x="638" y="266" width="73" measuredWidth="73" measuredHeight="23" background="#c00"/>
-  <widgets xsi:type="model:SearchField" id="23" x="368" y="258" width="260" text="HGSDFKGLAF A" measuredWidth="260" measuredHeight="39">
+  <widgets xsi:type="model:SearchField" id="23" x="368" y="258" width="260" text="HGSDFKGLAF A" measuredWidth="260" measuredHeight="36">
     <font size="24px"/>
   </widgets>
-  <widgets xsi:type="model:VLine" id="24" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="25" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:HLine" id="26" x="976" y="288" width="97" measuredWidth="97" measuredHeight="6" foreground="#fff"/>
   <widgets xsi:type="model:Arrow" id="27" x="352" y="135" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
   <widgets xsi:type="model:VLine" id="28" x="416" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:Arrow" id="29" x="440" y="135" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
@@ -59,19 +32,45 @@
   <widgets xsi:type="model:Label" id="31" x="528" y="125" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Tooltip" id="32" x="584" y="314" text="No se ha encontrado a ningun alumno           " measuredWidth="487" measuredHeight="56" background="#ffd966" position="topLeft">
+  <widgets xsi:type="model:Tooltip" id="32" x="584" y="314" text="No se ha encontrado a ningun alumno           " measuredWidth="485" measuredHeight="53" background="#ffd966" position="topLeft">
     <font size="24px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="33" x="1016" y="338" measuredWidth="38" measuredHeight="32" icon="close (large)">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="34" x="740" y="698" text="sin resultados" measuredWidth="176" measuredHeight="46">
+  <widgets xsi:type="model:Label" id="34" x="740" y="698" text="sin resultados" measuredWidth="173" measuredHeight="41">
     <font size="28px"/>
   </widgets>
-  <widgets xsi:type="model:VLine" id="35" x="1157" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Label" id="36" x="1061" y="121" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
+  <widgets xsi:type="model:Label" id="37" x="1125" y="121" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff" link="ElegirCampus.screen">
     <font size="20px" bold="true"/>
   </widgets>
+  <widgets xsi:type="model:Label" id="38" x="1277" y="119" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff" link="Cursos.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="39" x="1425" y="119" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff" link="ClasesCurso.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="40" x="1227" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="41" x="1406" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="42" x="997" y="121" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff" link="Ayuda.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="43" x="1093" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="44" x="985" y="262" text="Alumnos" measuredWidth="90" measuredHeight="31" foreground="#f3f3f3" link="AlumGeneral.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="45" x="1119" y="262" text="Empresas" measuredWidth="100" measuredHeight="31" foreground="#fff" link="Empresas.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="46" x="1248" y="262" text="Alumnos C.Esp" measuredWidth="149" measuredHeight="31" foreground="#fff" link="AlumC_Esp.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="47" x="1422" y="262" text="General" measuredWidth="80" measuredHeight="31" foreground="#fff" link="General.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="48" x="1087" y="262" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="49" x="1223" y="262" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="50" x="1399" y="262" height="36" measuredWidth="6" measuredHeight="36"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

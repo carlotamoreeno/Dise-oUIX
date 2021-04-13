@@ -18,17 +18,6 @@
   <widgets xsi:type="model:Label" id="10" x="416" y="125" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="11" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="12" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="13" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:VLine" id="14" x="1291" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="15" x="1416" y="120" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:Arrow" id="16" x="1224" y="280" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
   <widgets xsi:type="model:Arrow" id="17" x="1325" y="280" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
   <widgets xsi:type="model:Panel" id="18" x="176" y="376" width="272" height="856" measuredWidth="272" measuredHeight="856" background="#666" alpha="64" foreground="#666" border="none"/>
@@ -43,18 +32,18 @@
   </widgets>
   <widgets xsi:type="model:List" id="22" x="216" y="774" width="183" height="312" text="|formato.word&#xA;formato.pptx&#xA;|formato.svg&#xA;formato.png&#xA;|formato.txt&#xA;(bg:green)|formato.pdf&#xA;|formato.doc" measuredWidth="183" measuredHeight="312">
     <font size="24px" bold="false" italic="true"/>
-    <items x="0" y="2" width="183" height="42" text="|formato.word"/>
-    <items x="0" y="44" width="183" height="42" text="formato.pptx"/>
-    <items x="0" y="86" width="183" height="42" text="|formato.svg"/>
-    <items x="0" y="128" width="183" height="42" text="formato.png"/>
-    <items x="0" y="170" width="183" height="42" text="|formato.txt"/>
-    <items x="0" y="212" width="183" height="42" text="(bg:green)|formato.pdf"/>
-    <items x="0" y="254" width="183" height="42" text="|formato.doc"/>
+    <items x="0" y="2" width="183" height="38" text="|formato.word"/>
+    <items x="0" y="40" width="183" height="38" text="formato.pptx"/>
+    <items x="0" y="78" width="183" height="38" text="|formato.svg"/>
+    <items x="0" y="116" width="183" height="38" text="formato.png"/>
+    <items x="0" y="154" width="183" height="38" text="|formato.txt"/>
+    <items x="0" y="192" width="183" height="38" text="(bg:green)|formato.pdf"/>
+    <items x="0" y="230" width="183" height="38" text="|formato.doc"/>
   </widgets>
-  <widgets xsi:type="model:Combo" id="23" x="378" y="736" measuredWidth="27" measuredHeight="39">
+  <widgets xsi:type="model:Combo" id="23" x="378" y="736" measuredWidth="27" measuredHeight="36">
     <font size="24px"/>
   </widgets>
-  <widgets xsi:type="model:TextField" id="24" x="213" y="737" width="171" text="Tipo formato" measuredWidth="171" measuredHeight="39">
+  <widgets xsi:type="model:TextField" id="24" x="213" y="737" width="171" text="Tipo formato" measuredWidth="171" measuredHeight="36">
     <font size="24px" bold="true" italic="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="25" x="528" y="125" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
@@ -68,16 +57,16 @@
     <font size="24px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Image" id="31" x="554" y="386" width="919" height="959" measuredWidth="919" measuredHeight="959" border="true" src="assets/anexoimcompleto(1).PNG"/>
-  <widgets xsi:type="model:Tooltip" id="32" x="1170" y="824" text="Falta Campo           " measuredWidth="209" measuredHeight="56" background="#ffd966">
+  <widgets xsi:type="model:Tooltip" id="32" x="1170" y="824" text="Falta Campo           " measuredWidth="207" measuredHeight="53" background="#ffd966">
     <font size="24px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Tooltip" id="33" x="1170" y="1144" text="Falta Campo           " measuredWidth="209" measuredHeight="56" background="#ffd966">
+  <widgets xsi:type="model:Tooltip" id="33" x="1170" y="1144" text="Falta Campo           " measuredWidth="207" measuredHeight="53" background="#ffd966">
     <font size="24px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Tooltip" id="34" x="1208" y="637" text="Falta Campo           " measuredWidth="209" measuredHeight="56" background="#ffd966">
+  <widgets xsi:type="model:Tooltip" id="34" x="1208" y="637" text="Falta Campo           " measuredWidth="207" measuredHeight="53" background="#ffd966">
     <font size="24px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Tooltip" id="35" x="1213" y="544" text="Falta Campo           " measuredWidth="209" measuredHeight="56" background="#ffd966">
+  <widgets xsi:type="model:Tooltip" id="35" x="1213" y="544" text="Falta Campo           " measuredWidth="207" measuredHeight="53" background="#ffd966">
     <font size="24px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="36" x="1363" y="552" measuredWidth="38" measuredHeight="32" icon="close (large)">
@@ -95,40 +84,52 @@
   <widgets xsi:type="model:Button" id="41" x="218" y="1136" width="188" height="48" text="Actualizar" measuredWidth="188" measuredHeight="48" background="#666" icon="refresh (medium)">
     <font size="24px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Tooltip" id="42" x="326" y="599" text="No se puede guardar     " measuredWidth="263" measuredHeight="56" background="#ffd966">
+  <widgets xsi:type="model:Tooltip" id="42" x="326" y="599" text="No se puede guardar     " measuredWidth="268" measuredHeight="53" background="#ffd966">
     <font size="24px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="43" x="554" y="599" measuredWidth="38" measuredHeight="32" icon="close (large)">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Note" id="45" x="480" y="648" text="No se puede guardar&#xD;&#xA;si no estan los campos&#xD;&#xA; completos" measuredWidth="212" measuredHeight="98">
+  <widgets xsi:type="model:Note" id="45" x="480" y="648" text="No se puede guardar&#xD;&#xA;si no estan los campos&#xD;&#xA; completos" measuredWidth="216" measuredHeight="83">
     <font size="20px"/>
   </widgets>
   <widgets xsi:type="model:Callout" id="46" x="474" y="630" text="i" measuredWidth="25" measuredHeight="25">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Tooltip" id="47" x="387" y="1209" text="No se puede enviar       " measuredWidth="257" measuredHeight="56" background="#ffd966">
+  <widgets xsi:type="model:Tooltip" id="47" x="387" y="1209" text="No se puede enviar       " measuredWidth="260" measuredHeight="53" background="#ffd966">
     <font size="24px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Label" id="48" x="606" y="1209" measuredWidth="38" measuredHeight="32" icon="close (large)">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Note" id="49" x="656" y="1239" text="No se puede enviar&#xD;&#xA;si no estan los campos&#xD;&#xA; completos" measuredWidth="212" measuredHeight="98">
+  <widgets xsi:type="model:Note" id="49" x="656" y="1239" text="No se puede enviar&#xD;&#xA;si no estan los campos&#xD;&#xA; completos" measuredWidth="216" measuredHeight="83">
     <font size="20px"/>
   </widgets>
   <widgets xsi:type="model:Callout" id="50" x="648" y="1231" text="i" measuredWidth="25" measuredHeight="25">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Note" id="52" x="511" y="1096" text="No se puede enviar&#xD;&#xA;si no se ha actualizado" measuredWidth="212" measuredHeight="70">
+  <widgets xsi:type="model:Note" id="52" x="511" y="1096" text="No se puede enviar&#xD;&#xA;si no se ha actualizado" measuredWidth="215" measuredHeight="60">
     <font size="20px"/>
   </widgets>
   <widgets xsi:type="model:Callout" id="53" x="503" y="1085" text="i" measuredWidth="25" measuredHeight="25">
     <font bold="true"/>
   </widgets>
-  <widgets xsi:type="model:Label" id="54" x="1061" y="121" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
+  <widgets xsi:type="model:Label" id="56" x="1125" y="121" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff" link="ElegirCampus.screen">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:VLine" id="55" x="1157" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="57" x="1277" y="119" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff" link="Cursos.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="58" x="1425" y="119" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff" link="ClasesCurso.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="59" x="1227" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="60" x="1406" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="61" x="997" y="121" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff" link="Ayuda.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="62" x="1093" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="69" x="1399" y="262" height="36" measuredWidth="6" measuredHeight="36"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

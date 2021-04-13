@@ -14,12 +14,6 @@
   <widgets xsi:type="model:Label" id="13" x="544" y="119" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
-  <widgets xsi:type="model:Label" id="14" x="1441" y="111" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="17" x="1296" y="115" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
   <widgets xsi:type="model:Label" id="18" x="337" y="119" measuredWidth="6" measuredHeight="23">
     <font/>
   </widgets>
@@ -33,7 +27,6 @@
     <font/>
   </widgets>
   <widgets xsi:type="model:VLine" id="22" x="337" y="106" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="28" x="1410" y="115" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:Panel" id="29" x="79" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Text" id="30" x="1016" y="560" width="400" height="120" text="Campus&#xA;Villaviciosa de Odón" measuredWidth="400" measuredHeight="120" textAlignment="Center" link="Cursos.screen">
     <font size="40px" bold="false" italic="true"/>
@@ -48,9 +41,13 @@
   <widgets xsi:type="model:HLine" id="39" x="10" y="26" measuredWidth="100" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="40" x="977" y="1177" width="480" measuredWidth="480" measuredHeight="6"/>
   <widgets xsi:type="model:VLine" id="41" x="418" y="98" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Browser" id="42" x="1296" y="282" text="Browser&#xA;http://..." measuredWidth="400" measuredHeight="300">
-    <font/>
+  <widgets xsi:type="model:Label" id="43" x="1408" y="115" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff" link="">
+    <font size="20px" bold="true"/>
   </widgets>
+  <widgets xsi:type="model:Label" id="48" x="1280" y="115" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff" link="Ayuda.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="49" x="1376" y="115" height="36" measuredWidth="6" measuredHeight="36"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

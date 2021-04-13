@@ -4,60 +4,53 @@
   <widgets xsi:type="model:Image" id="2" x="104" y="88" width="137" height="121" measuredWidth="137" measuredHeight="121" src="assets/logo.PNG"/>
   <widgets xsi:type="model:Panel" id="3" x="320" y="96" width="1240" height="81" measuredWidth="1240" measuredHeight="81" annotation="true" background="#de3831" foreground="#de3831" border="none"/>
   <widgets xsi:type="model:Panel" id="4" x="80" y="240" width="1497" height="75" measuredWidth="1497" measuredHeight="75" background="#de3831" foreground="#de3831" border="none"/>
-  <widgets xsi:type="model:VLine" id="6" x="1088" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="8" x="1224" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="10" x="1400" y="260" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Label" id="12" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="13" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="14" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
   <widgets xsi:type="model:Table" id="15" x="162" y="352" width="1313" height="840" text="Empresa, Tutor Empresa,Convenio (Anexo 1.b),Alumnos&#xA;                  ,                                              ,   &#xA;                                    ,                                              ,    &#xA;   Telefónica   ,   Juan Inocencio Delgado   ,    368202847J ,   Carlota Moreno García&#xA;                     ,                                              ,  ,    Mamen Moreno García&#xA;                       ,                                              ,  ,    María Moreno García&#xA;                       ,                                              , ,     Sara Moreno García&#xA;                       ,                                              , ,    Marivi Moreno García&#xA;                       ,                                              , ,    Ana Moreno García&#xA;                       ,                                              ,  ,    Juan Moreno García&#xA;                                       ,                                              ,   &#xA;                                    ,                                              ,    &#xA;   Movistar  ,   Juan Inocencio Delgado,    67890847S   ,    Juan Perez cobalto&#xA;                       ,                                              ,  ,    Jose Moreno García&#xA;                       ,                                              ,     ,   David Moreno García&#xA;                       ,                                              ,     ,   Guillermo Moreno García&#xA;                       ,                                              ,     ,   Mauro Moreno García&#xA;                       ,                                              ,     ,   Ana María Moreno García&#xA;                       ,                                              ,    ,   Julian Moreno García&#xA;                                       ,                                              ,   &#xA;                                    ,                                              ,    &#xA;   Google  ,   Juan Inocencio Delgado   ,  6783459P   ,   Carlota Moreno García&#xA;                       ,                                              ,    ,   Pedro Moreno García&#xA;                       ,                                              ,    ,   Francisco Moreno García&#xA;                       ,                                              ,    ,   Nacho Moreno García&#xA;                       ,                                              ,    ,   Fernando Moreno García&#xA;                       ,                                              ,    ,   Antonia Moreno García&#xA;                       ,                                              ,    ,   Alberto Moreno García&#xA;                                       ,                                              ,   &#xA;                                    ,                                              ,    &#xA;" measuredWidth="1313" measuredHeight="840" rowHeight="30" alternative="#eee">
     <font size="18px" bold="true" italic="true"/>
   </widgets>
   <widgets xsi:type="model:VScrollbar" id="16" x="1559" y="314" height="967" measuredWidth="17" measuredHeight="967"/>
-  <widgets xsi:type="model:SearchField" id="17" x="345" y="260" width="304" text="Search Empresa" measuredWidth="304" measuredHeight="36">
+  <widgets xsi:type="model:SearchField" id="17" x="345" y="260" width="304" text="Search Empresa" measuredWidth="304" measuredHeight="31">
     <font size="20px" bold="false" italic="true"/>
   </widgets>
   <widgets xsi:type="model:VSlider" id="18" x="1479" y="446" height="652" measuredWidth="17" measuredHeight="652"/>
-  <widgets xsi:type="model:Button" id="19" x="1392" y="1216" text="Editar tabla" measuredWidth="118" measuredHeight="35" background="#999">
+  <widgets xsi:type="model:Button" id="19" x="1392" y="1216" text="Editar tabla" measuredWidth="119" measuredHeight="31" background="#999">
     <font size="18px" bold="true"/>
   </widgets>
   <widgets xsi:type="model:Image" id="21" x="176" y="536" width="282" height="88" measuredWidth="282" measuredHeight="88" border="true" src="assets/telefonica.jpg"/>
   <widgets xsi:type="model:Image" id="22" x="176" y="888" width="281" height="72" measuredWidth="281" measuredHeight="72" border="true" src="assets/movistar.jpg"/>
-  <widgets xsi:type="model:Label" id="23" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36" foreground="#f3f3f3">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="24" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="25" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:Label" id="26" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36" foreground="#fff">
-    <font size="20px" bold="true"/>
-  </widgets>
-  <widgets xsi:type="model:HLine" id="27" x="1112" y="295" width="102" measuredWidth="102" measuredHeight="6" foreground="#fff"/>
-  <widgets xsi:type="model:VLine" id="28" x="1288" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="30" x="1416" y="118" height="36" measuredWidth="6" measuredHeight="36"/>
   <widgets xsi:type="model:TextArea" id="31" x="128" y="251" width="176" height="54" text="DAM - 2ªB" measuredWidth="176" measuredHeight="54" background="#de3831">
     <font size="32px" bold="true" italic="true"/>
   </widgets>
-  <widgets xsi:type="model:Arrow" id="32" x="352" y="135" width="36" height="8" measuredWidth="36" measuredHeight="8" foreground="#fff"/>
-  <widgets xsi:type="model:Arrow" id="33" x="440" y="135" width="35" height="8" measuredWidth="35" measuredHeight="8" foreground="#fff" left="false" right="true"/>
-  <widgets xsi:type="model:Label" id="34" x="528" y="125" measuredWidth="30" measuredHeight="24" foreground="#fff" icon="undo (medium)">
-    <font/>
-  </widgets>
-  <widgets xsi:type="model:VLine" id="35" x="416" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:VLine" id="36" x="506" y="117" height="36" measuredWidth="6" measuredHeight="36"/>
-  <widgets xsi:type="model:Label" id="37" x="1061" y="121" text="Ayuda" measuredWidth="66" measuredHeight="36" foreground="#fff">
+  <widgets xsi:type="model:Label" id="54" x="1136" y="119" text="Campus" measuredWidth="84" measuredHeight="31" foreground="#fff" link="ElegirCampus.screen">
     <font size="20px" bold="true"/>
   </widgets>
-  <widgets xsi:type="model:VLine" id="38" x="1157" y="121" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="55" x="1288" y="117" text="Cursos" measuredWidth="73" measuredHeight="31" foreground="#fff" link="Cursos.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="56" x="1436" y="117" text="Clases" measuredWidth="70" measuredHeight="31" foreground="#fff" link="ClasesCurso.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="57" x="1238" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="58" x="1417" y="117" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="59" x="1008" y="119" text="Ayuda" measuredWidth="66" measuredHeight="31" foreground="#fff" link="Ayuda.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="60" x="1104" y="119" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Label" id="61" x="1009" y="257" text="Alumnos" measuredWidth="90" measuredHeight="31" foreground="#f3f3f3" link="AlumGeneral.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="62" x="1143" y="257" text="Empresas" measuredWidth="100" measuredHeight="31" foreground="#fff" link="">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="63" x="1272" y="257" text="Alumnos C.Esp" measuredWidth="149" measuredHeight="31" foreground="#fff" link="AlumC_Esp.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="64" x="1446" y="257" text="General" measuredWidth="80" measuredHeight="31" foreground="#fff" link="General.screen">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="65" x="1111" y="257" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="66" x="1247" y="257" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:VLine" id="67" x="1423" y="257" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:HLine" id="68" x="1144" y="292" width="98" measuredWidth="98" measuredHeight="6" foreground="#fff"/>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

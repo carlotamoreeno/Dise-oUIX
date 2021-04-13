@@ -12,8 +12,8 @@
   </widgets>
   <widgets xsi:type="model:HLine" id="95" x="976" y="288" width="97" measuredWidth="97" measuredHeight="6" foreground="#fff"/>
   <widgets xsi:type="model:Arrow" id="103" x="714" y="760" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
-  <widgets xsi:type="model:Image" id="108" x="360" y="184" width="912" height="681" measuredWidth="912" measuredHeight="681" src="assets/logo.PNG"/>
-  <widgets xsi:type="model:Label" id="109" x="644" y="1000" text=" Cargando..." measuredWidth="368" measuredHeight="89" icon="loading (xlarge)">
+  <widgets xsi:type="model:Image" id="108" x="360" y="184" width="912" height="681" measuredWidth="912" measuredHeight="681" link="ElegirCampus.screen" src="assets/logo.PNG"/>
+  <widgets xsi:type="model:Label" id="109" x="644" y="1000" text=" Cargando..." measuredWidth="355" measuredHeight="79" icon="loading (xlarge)">
     <font size="60px"/>
   </widgets>
   <hRuler/>
