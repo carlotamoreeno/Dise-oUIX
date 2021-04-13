@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="79" y="40" width="1497" height="1305" measuredWidth="1497" measuredHeight="1305" background="#f6f6f6" minimizeButton="true" maximizeButton="true"/>
+  <widgets xsi:type="model:Label" id="47" x="985" y="260" text="Alumnos" measuredWidth="89" measuredHeight="36" foreground="#f3f3f3">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="48" x="1120" y="260" text="Empresas" measuredWidth="95" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="49" x="1249" y="260" text="Alumnos C.Esp" measuredWidth="144" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="50" x="1423" y="260" text="General" measuredWidth="79" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="55" x="335" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="56" x="378" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="57" x="416" y="125" measuredWidth="6" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="58" x="1189" y="121" text="Campus" measuredWidth="80" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="59" x="1325" y="121" text="Cursos" measuredWidth="68" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="60" x="1456" y="121" text="Clases" measuredWidth="64" measuredHeight="36" foreground="#fff">
+    <font size="20px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="95" x="976" y="288" width="97" measuredWidth="97" measuredHeight="6" foreground="#fff"/>
+  <widgets xsi:type="model:Arrow" id="103" x="714" y="760" width="34" height="8" measuredWidth="34" measuredHeight="8" foreground="#f3f3f3" left="false" right="true" direction="bottom"/>
+  <widgets xsi:type="model:Image" id="108" x="575" y="304" width="506" height="513" measuredWidth="506" measuredHeight="513" src="assets/logo.PNG"/>
+  <widgets xsi:type="model:Label" id="109" x="676" y="960" text=" Cargando..." measuredWidth="303" measuredHeight="73" icon="loading (xlarge)">
+    <font size="48px"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
