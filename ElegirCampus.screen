@@ -48,6 +48,9 @@
   <widgets xsi:type="model:HLine" id="39" x="10" y="26" measuredWidth="100" measuredHeight="6"/>
   <widgets xsi:type="model:HLine" id="40" x="977" y="1177" width="480" measuredWidth="480" measuredHeight="6"/>
   <widgets xsi:type="model:VLine" id="41" x="418" y="98" height="36" measuredWidth="6" measuredHeight="36"/>
+  <widgets xsi:type="model:Browser" id="42" x="1296" y="282" text="Browser&#xA;http://..." measuredWidth="400" measuredHeight="300">
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>
