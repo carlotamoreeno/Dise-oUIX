@@ -24,9 +24,6 @@
   <panels id="FQIahXFb9FpLabk92NbgkaZnMpM=" x="975" y="375">
     <screen href="General.screen#/"/>
   </panels>
-  <panels id="-WkcXpdhbocRRHvwC0Rf8ziZYpQ=" x="75" y="675">
-    <screen href="GeneralMuestraError.screen#/"/>
-  </panels>
   <panels id="dush2Bmt5bylfwS1LS1qcmtK2Lg=" x="375" y="675">
     <screen href="AlumGeneral.screen#/"/>
   </panels>
